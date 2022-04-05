@@ -8,13 +8,14 @@
 
 ## Web
 
-![image](https://user-images.githubusercontent.com/32058390/161827654-4fa93ce8-675c-4cf4-9f65-d6a962d3c505.png)
+![image](https://user-images.githubusercontent.com/32058390/161827976-7eba8001-f6fd-411e-bed4-d1f7d9909d83.png)
 
-![image](https://user-images.githubusercontent.com/32058390/161827666-1df6a138-e7c5-4f90-8896-41bf8af594f4.png)
+![image](https://user-images.githubusercontent.com/32058390/161827988-a6361614-2eb7-4faf-894e-26578dc4f723.png)
 
-![image](https://user-images.githubusercontent.com/32058390/161827685-47c8d6e7-18a8-4da4-ba71-b570fbd41abc.png)
+![image](https://user-images.githubusercontent.com/32058390/161827997-e61c3a07-ff21-4ecd-afa0-17ee12e58732.png)
+
 
 ## App(Android)
 
-![image](https://user-images.githubusercontent.com/32058390/161827736-6ca90d8b-abdd-4d97-97a4-1d1d7508d8dd.png)
-![image](https://user-images.githubusercontent.com/32058390/161827750-736014a8-68f9-4b08-aabd-7397c0300c21.png)
+![image](https://user-images.githubusercontent.com/32058390/161828007-ab511d2f-217d-4eb1-b333-bfdbd39466f3.png)![image](https://user-images.githubusercontent.com/32058390/161828018-d19f9822-864d-459c-a68f-eb428b9f6584.png)
+
