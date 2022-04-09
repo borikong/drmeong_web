@@ -3,6 +3,11 @@
 
 ![image](https://user-images.githubusercontent.com/32058390/161827585-07c6a2c8-0cfd-4b30-a797-67719579b618.png)
 
+## 전문가 시스템의 구성
+1. 추론엔진(Inference Engine)
+2. 지식베이스(knowledge Base)
+3. 설명시스템(Explanation System)
+
 ## 챗봇 동작 알고리즘
 ![image](https://user-images.githubusercontent.com/32058390/161625151-bcc20ca4-cd5a-4358-9f90-f30f078e9cbd.png)
 
