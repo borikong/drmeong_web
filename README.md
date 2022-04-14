@@ -3,6 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/32058390/161827585-07c6a2c8-0cfd-4b30-a797-67719579b618.png)
 
+chatbot : MS LUIS, MS DirectLine
+crawling : C#
+web : HTML, CSS, JSP, Javascript
+app : JAVA
+database : mySQL, firebase
+
+
 ## 전문가 시스템의 구성
 1. 추론엔진(Inference Engine)
 2. 지식베이스(knowledge Base)
